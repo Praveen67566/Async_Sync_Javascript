@@ -5,7 +5,7 @@
 
 ## 🌟 Target Outcomes
 
-By the end of this session, engineers will understand:
+By the end of this session, You will understand:
 
 - ✅ The difference between **synchronous** and **asynchronous** code
 - ✅ Real-world analogies to grasp async behavior
@@ -19,11 +19,11 @@ By the end of this session, engineers will understand:
 
 ---
 
-## 🩜 Lecture Structure (90 mins – adjustable)
+## 🩜 Structure 
 
 ---
 
-### 🫩 Part 1: Warm-Up (10 mins)
+### 🫩 Part 1: Warm-Up 
 
 - **Question to audience**:  
   _"Have you ever seen code freeze while waiting for a network request? Why does that happen?"_
@@ -38,7 +38,7 @@ console.log("End");
 
 ---
 
-### 🧠 Part 2: Core Concepts (25 mins)
+### 🧠 Part 2: Core Concepts
 
 #### ✅ 1. Synchronous Code
 - **Definition**: Runs one line at a time, in order.
@@ -80,7 +80,7 @@ console.log("End");
 
 ---
 
-### ⚙️ Part 4: JavaScript Runtime Engine (25 mins)
+### ⚙️ Part 4: JavaScript Runtime Engine 
 
 #### 🔍 Visual Components:
 - Call Stack
@@ -116,7 +116,7 @@ console.log("4");
 
 ---
 
-### 💡 Part 5: Promises and async/await (20 mins)
+### 💡 Part 5: Promises and async/await 
 
 #### ✅ Promises:
 
@@ -142,7 +142,7 @@ getData();
 
 ---
 
-### 🔧 Part 6: Live Mini Project (Optional - 5 mins)
+### 🔧 Part 6: Live Mini Project 
 
 #### ✅ Fake Loader Example:
 
@@ -156,7 +156,7 @@ console.log("Continue working...");
 
 ---
 
-### 🎓 Wrap-Up + Q&A (5–10 mins)
+### 🎓 Wrap-Up + Q&A 
 
 - Recap:
   - Sync vs Async
@@ -183,9 +183,3 @@ console.log("Continue working...");
 
 ---
 
-## 🚀 Want More?
-
-Available upon request:
-- ✅ Beautiful Slide Deck (PDF/PPT)
-- ✅ Code Playgrounds (CodeSandbox / CodePen)
-- ✅ PDF Cheat Sheet for Class
